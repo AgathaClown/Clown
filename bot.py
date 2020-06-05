@@ -30,4 +30,4 @@ async def info( ctx ):
     await ctx.send(f'{author.mention} **Приветствую тебя на данном дискорд сервере.** Здесь мы тупо общаемся и гамаем в игры')
 
 # connect
-client.run('NzEwNDEyNjMwNzE5NzI1NTk4.XtlEag.7ScVqe5vZvf0vz3ofD8XYyDS_SA')
+client.run('your token')
